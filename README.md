@@ -72,17 +72,24 @@ My approach is shaped by hands-on experience across Azure, AWS, and Google Cloud
 
 ---
 
+📈 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sheeffii&show_icons=true&theme=tokyonight" alt="sheeffii's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sheeffii&theme=tokyonight" alt="sheeffii's GitHub streak" />
+</p>
+
+---
+
 🌱 **Currently leveling up:**  
 - Advanced Kubernetes (Operators, Security, Multi-Cluster)
 - SRE and platform engineering best practices
 - Cloud-native security and cost optimization
-
 ---
 
 📫 **Let’s connect!**
 
 - shefqetsalihu123@gmail.com
-- [LinkedIn: shefqetsalihu](https://www.linkedin.com/in/shefqetsalihu/)
+- [LinkedIn: Shefqet Salihu](https://www.linkedin.com/in/shefqetsalihu/)
 - Pristina, Kosovo
 
 ---
