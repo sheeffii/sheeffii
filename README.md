@@ -80,6 +80,14 @@ My approach is shaped by hands-on experience across Azure, AWS, and Google Cloud
 
 ---
 
+## 📊 My Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sheeffii&layout=compact&hide_progress=false&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+_This chart updates automatically to show the programming languages I'm most active with in my public repositories._
+
+---
+
 🌱 **Currently leveling up:**  
 - Advanced Kubernetes (Operators, Security, Multi-Cluster)
 - SRE and platform engineering best practices
