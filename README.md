@@ -48,16 +48,6 @@ My approach is shaped by hands-on experience across Azure, AWS, and Google Cloud
 
 🏆 **Certifications**
 
-<p>
-  <a href="https://www.credly.com/badges/1e1a3d14-e9ab-45e2-9100-3216b4f46ee9" target="_blank">
-    <img src="https://images.credly.com/size/110x110/images/99289602-861e-4929-8277-773e63a2fa6c/image.png" width="60" alt="Terraform Associate Badge"/>
-  </a>
-  &nbsp;
-  <a href="https://www.credly.com/badges/0c253dc5-210f-479a-a3f1-86e216464358/public_url" target="_blank">
-    <img src="https://images.credly.com/size/110x110/images/2e5c6b39-6b3d-4b0a-881d-2f9652c21c91/image.png" width="60" alt="GCP ACE Badge"/>
-  </a>
-</p>
-
 - [HashiCorp Certified: Terraform Associate](https://www.credly.com/badges/1e1a3d14-e9ab-45e2-9100-3216b4f46ee9)
 - [Google Cloud Certified Associate Cloud Engineer (GCP ACE)](https://www.credly.com/badges/0c253dc5-210f-479a-a3f1-86e216464358/public_url)
 
